@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![](Introductory_Image.png)
+![](Introduction_Image.png)
 Secure Life General Hospital treats patients across six departments. Management has noticed shifts in admissions, unpaid medical bills and insurance coverage, but has no single report showing how the hospital is performing operationally and financially.
 This project turns the hospital's raw patient records into an interactive Microsoft Excel dashboard. It uses PivotTables, PivotCharts, slicers and KPI cards so that management can monitor admissions, billing and payments, and filter the results by department, year and diagnosis.
 
